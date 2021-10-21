@@ -1,3 +1,6 @@
+# Practice-deploying-project-with-Docker
+Test project to become familiar with Docker inteface
+
 # Easy Node Authentication
 
 Code takem from scotch.io tutorial series: Complete Guide to Node Authentication
@@ -18,3 +21,5 @@ If you would like to download the code and try it for yourself:
 ## The Tutorials
 
 - [Getting Started and Local Authentication](http://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+
+
